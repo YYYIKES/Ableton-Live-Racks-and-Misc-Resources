@@ -1,5 +1,5 @@
 ## Ableton Live Racks, Presets, Devices, etc.
-Just my personal utilities. Work in progress.
+Just my personal utilities. Work in progress – Descriptions & usage to come.
 <br>
 <br>
 
