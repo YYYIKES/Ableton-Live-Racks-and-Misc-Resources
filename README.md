@@ -1,5 +1,5 @@
 ## Ableton Live Racks, Presets, Devices, etc.
-Just my personal utilities. Work in progress – Descriptions & usage to come.
+Just my personal utilities. Work in progress.
 <br>
 <br>
 
@@ -17,4 +17,4 @@ Just my personal utilities. Work in progress – Descriptions & usage to come.
   - Usage: put the rack on the track you want to get dipped, in the Routing chain, select your sidechain track in the "Audio From" drop-down
 <br>
 
-...to be continued 
+...descriptions and usage notes to come. 
