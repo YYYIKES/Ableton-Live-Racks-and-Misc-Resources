@@ -10,7 +10,7 @@ Just my personal utilities. Work in progress.
 <br>
 
 **Native Trackspacer / Dynamic EQ**<br>
-All credit to [Taka Perry](https://takaperry.gumroad.com/) for the [original device (via Gumroad)](https://takaperry.gumroad.com/l/qxuqw). I've simply made some minor adjustments.
+All credit to [Taka Perry](https://takaperry.gumroad.com/) for the [original Spacesaver rack (via Gumroad)](https://takaperry.gumroad.com/l/qxuqw). I've simply made some minor adjustments.
 - Uses only stock devices
 - 16 bands, adjustable Amount, Q, Tilt, Scale (100% to inverted), Attack, Release, Low Cut, High Cut
 - Band frequencies can be adjusted by hand, ie. selecting the bands and moving them in the graphical display
