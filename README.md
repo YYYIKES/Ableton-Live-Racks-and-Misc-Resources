@@ -18,3 +18,8 @@ All credit to [Taka Perry](https://takaperry.gumroad.com/) for the [original Spa
 <br>
 
 ...descriptions and usage notes to come. 
+<br>
+<br>
+
+See also my remote script edit for the Akai MPK Mini Plus for using the endless encoders in (the more intuitive) relative mode:
+<br><a href="https://github.com/YYYIKES/MPK-Mini-Plus-Relative-Encoders-Live-11">MPK Mini Plus Remote Script </a>
