@@ -20,7 +20,7 @@ All credit to [Taka Perry](https://takaperry.gumroad.com/) for the [original Spa
 
 **Misc / Notes / Theory / Charts / etc**
 - [Ableton Push Chord Shapes.png](https://github.com/YYYIKES/Ableton-Live-Racks-and-Misc-Resources/blob/main/Misc/Ableton%20Push%20Chord%20Shapes.png) - Ableton Push chord shapes. Compiled by [Niels Poensgen (via Instagram)](https://www.instagram.com/nielspoensgen/)
-- [Chords in Isomorphic Note Layout.pdf](https://github.com/YYYIKES/Ableton-Live-Racks-and-Misc-Resources/blob/main/Misc/Chords%20in%20Isomorphic%20Note%20Layout.pdf) - Ableton Push chord shapes for Isomorphic layout
+- [Chords in Isomorphic Note Layout.pdf](https://github.com/YYYIKES/Ableton-Live-Racks-and-Misc-Resources/blob/main/Misc/Chords%20in%20Isomorphic%20Note%20Layout.pdf) - Ableton Push chord shapes for Isomorphic layout. Originally posted [here (via Reddit)](https://old.reddit.com/r/ableton/comments/1aeupvd/chords_in_isomorphic_note_layout_for_push/)
 - [Even + Odd Harmonics Chart.xlsx](https://github.com/YYYIKES/Ableton-Live-Racks-and-Misc-Resources/blob/main/Misc/Even%20%2B%20Odd%20Harmonics%20Chart.xlsx) Chart of odd and even harmonic frequencies for a given note frequency.
 - [Chord + Scale Device Formulas.xlsx](https://github.com/YYYIKES/Ableton-Live-Racks-and-Misc-Resources/blob/main/Misc/Chord%20%2B%20Scale%20Device%20Formulas.xlsx) - Page1: Formulas for pretty much every chord for Ableton Live's Chord device. Page 2: Around 1500 scales with their names and note intervals.
 - [Free-Piano-Chord-Chart.png](https://github.com/YYYIKES/Ableton-Live-Racks-and-Misc-Resources/blob/main/Misc/Free-Piano-Chord-Chart.png) - Keyboard chord shapes for most common-ish chords. Created by [professionalcomposers.com](professionalcomposers.com)
