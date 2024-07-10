@@ -27,7 +27,7 @@ All credit to [Taka Perry](https://takaperry.gumroad.com/) for the [original Spa
 - [List of Scales.xlsx](https://github.com/YYYIKES/Ableton-Live-Racks-and-Misc-Resources/blob/main/Misc/List%20of%20Scales.xlsx) - Around 1500 scales with their names and note intervals.
 - [Push Chord reference 3 Lostbeat Audio.pdf](https://github.com/YYYIKES/Ableton-Live-Racks-and-Misc-Resources/blob/main/Misc/Push%20Chord%20reference%203%20Lostbeat%20Audio.pdf) - Ableton Push chord shapes for key and chromatic modes. Created by [Lostbeat Audio (via Gumroad)](https://lostbeat.gumroad.com/)
 - [Recreating Sampled Drum Breaks - Shitty is Gritty.pdf](https://github.com/YYYIKES/Ableton-Live-Racks-and-Misc-Resources/blob/main/Misc/Recreating%20Sampled%20Drum%20Breaks%20-%20Shitty%20is%20Gritty.pdf) - Gabriel Roth of [Daptone Records](https://daptonerecords.com/)'s original article about how to achieve the sound of sampled drum breaks.
-- [open-random-project-folder.command](Bash script for opening a random folder in my project folder. Works on both arm64 and intel macs.
+- [open-random-project-folder.command](https://github.com/YYYIKES/Ableton-Live-Racks-and-Misc-Resources/blob/main/Misc/open-random-project-folder.command) - Bash script for opening a random folder in my project folder. Works on both arm64 and intel macs.
 
 ...more descriptions and usage notes to come. 
 <br>
